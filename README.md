@@ -1,10 +1,9 @@
-
 # Holly-public Fotky
 
 ## Galerie
 
 ### Fotka 1
-![Foto 1](https://github.com/Michalholly/Holly-public/blob/main/IMG_20250826_17.jpg?raw=true)
+![Foto 1](IMG_20250826_17.jpg)
 
 ### Video
-[Otevřít video](https://github.com/Michalholly/Holly-public/blob/main/VID_20250810_143.mp4?raw=true)
+[Otevřít video](VID_20250810_143.mp4?raw=true)
